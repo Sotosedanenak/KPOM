@@ -81,7 +81,7 @@ pastikan buat ngatur biar **windows firewall** bolehin akses ke xampp. kalo engg
 ### catatan lain
 - buat catat progress otomatis, HARUS BANGET buka progress.py di laptop server dari awal sampai habis, di sana kami bikin interval updatenya 2 menit sekali
 
-### Log Perubahan
+## Log Perubahan
 
 **Gadhraziel16**
 - Membuat Sistem `KPOM`
